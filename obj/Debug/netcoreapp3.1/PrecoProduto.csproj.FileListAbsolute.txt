@@ -1,0 +1,14 @@
+C:\Users\adria\source\repos\PrecoProduto\bin\Debug\netcoreapp3.1\PrecoProduto.exe
+C:\Users\adria\source\repos\PrecoProduto\bin\Debug\netcoreapp3.1\PrecoProduto.deps.json
+C:\Users\adria\source\repos\PrecoProduto\bin\Debug\netcoreapp3.1\PrecoProduto.runtimeconfig.json
+C:\Users\adria\source\repos\PrecoProduto\bin\Debug\netcoreapp3.1\PrecoProduto.runtimeconfig.dev.json
+C:\Users\adria\source\repos\PrecoProduto\bin\Debug\netcoreapp3.1\PrecoProduto.dll
+C:\Users\adria\source\repos\PrecoProduto\bin\Debug\netcoreapp3.1\PrecoProduto.pdb
+C:\Users\adria\source\repos\PrecoProduto\obj\Debug\netcoreapp3.1\PrecoProduto.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\PrecoProduto\obj\Debug\netcoreapp3.1\PrecoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\PrecoProduto\obj\Debug\netcoreapp3.1\PrecoProduto.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\PrecoProduto\obj\Debug\netcoreapp3.1\PrecoProduto.AssemblyInfo.cs
+C:\Users\adria\source\repos\PrecoProduto\obj\Debug\netcoreapp3.1\PrecoProduto.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\PrecoProduto\obj\Debug\netcoreapp3.1\PrecoProduto.dll
+C:\Users\adria\source\repos\PrecoProduto\obj\Debug\netcoreapp3.1\PrecoProduto.pdb
+C:\Users\adria\source\repos\PrecoProduto\obj\Debug\netcoreapp3.1\PrecoProduto.genruntimeconfig.cache
